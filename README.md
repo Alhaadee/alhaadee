@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-### Hi there 👋
+## Hi there 👋
 
 I am a master’s graduate in Mechanical Engineering at UCL who has always been a keen problem-solver. While studying, I enjoyed collaborating on numerous group design projects and realized the tangible impact of code through learning Matlab. This sparked my interest to pursue further self-learning with Python and subsequently Join the Bright Network Full-Stack Bootcamp.I wish to be a software engineer with an organization that holds collaboration and self-development as values.
 
@@ -11,7 +11,7 @@ I am a master’s graduate in Mechanical Engineering at UCL who has always been 
 - 🌱 I’m currently learning React Query
 - 📫 How to reach me:  email: alhaadee91@Gmail.com, [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/al-haadee/) 
 
-## Check out my portfolio [here](https://alhaadee.github.io/portfolio/)
+### Check out my portfolio [here](https://alhaadee.github.io/portfolio/)
 
 ---
 
