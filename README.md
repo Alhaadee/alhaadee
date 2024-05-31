@@ -4,11 +4,6 @@
 
 ## Hi there 👋
 
-I am a master’s graduate in Mechanical Engineering at UCL who has always been a keen problem-solver. While studying, I enjoyed collaborating on numerous group design projects and realized the tangible impact of code through learning Matlab. This sparked my interest to pursue further self-learning with Python and subsequently join the Bright Network Full-Stack Bootcamp.
-
-
-- 🔭 I’m currently working on my Portfolio Website
-- 🌱 I’m currently learning React Query
 - 📫 How to reach me:  email: alhaadee91@Gmail.com, [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/al-haadee/) 
 
 ### Check out my portfolio [here](https://alhaadee.github.io/portfolio/)
