@@ -1,10 +1,11 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
 
 ## Hi there 👋
 
-- 📫 How to reach me:  email: alhaadee91@Gmail.com, [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/al-haadee/) 
+📫 How to reach me:
+
+alhaadee91@Gmail.com
+
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/al-haadee/) 
 
 ### Check out my portfolio [here](https://alhaadee.github.io/portfolio/)
 
